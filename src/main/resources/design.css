@@ -1,0 +1,19 @@
+/*
+selenium-testng-framework/
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com.example.framework
+│   │           ├── base
+│   │           │   └── BaseTest.java
+│   │           ├── utils
+│   │           │   └── ConfigReader.java
+│   │           └── pages
+│   │               └── LoginPage.java
+│   └── test
+│       └── java
+│           └── com.example.tests
+│               └── LoginTest.java
+└── pom.xml
+└── testing.xml
+*/
